@@ -3,4 +3,14 @@ Tool Used: Python ([Google Collab](https://colab.research.google.com/drive/1Esfj
 
 Data Source and its Citation: Alam, B M Shahria; Ahammed, Fahad; Kibria, Golam; Noor, Mohammad Tahmid; Shikdar, Omar Faruq; Mahazabin, Kazi Isat; Ali, Md Nawab Yousuf (2025), “teaLeafBD”, Mendeley Data, V3, doi: [10.17632/744vznw5k2.3](https://data.mendeley.com/datasets/744vznw5k2/3)
 
-Project Summary
+## Project Summary
+
+## Project Objectives
+
+## Methodology Research Framework
+
+## Results and Discussion
+
+## Conclusiom
+
+## Limitation
