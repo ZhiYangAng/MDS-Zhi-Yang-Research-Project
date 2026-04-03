@@ -20,7 +20,7 @@ The research addresses both accuracy and interpretability. By utilizing the teaL
 3.	To compare the performance of CNN models and hybrid CNN-ML models on tea leaves disease classification using performance metrics.
 
 ## Methodology Research Framework
-dada dad 
+
 ## Results and Discussion
 
 ## Conclusiom
